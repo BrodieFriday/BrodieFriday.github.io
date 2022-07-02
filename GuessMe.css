@@ -1,0 +1,217 @@
+.whatAmI{
+		margin: 0;
+ 		position: absolute;
+  		top: 45%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-family: Macondo;
+  		font-size: 44px;
+	}
+.feedback{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 55%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		
+	}
+.submit-fox{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 70%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		border-radius: 10px;
+  		border-color: sienna;
+	}
+.submit-polarbear{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 70%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		border-radius: 10px;
+  		border-color: whtie;
+	}
+.submit-caribou{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 70%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		border-radius: 10px;
+  		border-color: whtie;
+	}
+.submit-bobcat{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 70%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		border-radius: 10px;
+  		border-color: blanchedalmond;
+	}
+.submit-duck{
+		font-size: 25px;
+		margin: 0;
+ 		position: absolute;
+  	    top: 70%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		border-radius: 10px;
+  		border-color: white;
+	}
+.next-fox{
+		font-size:  30px;
+		position: absolute;
+		top: 115%;
+		  left: 50%;
+		transform:  translate(-50%, -50%);
+		border-radius: 10px;
+		border-color: white;
+		color: sienna;
+		background-color: white;
+	}
+.next-polarbear{
+		font-size:  30px;
+		position: absolute;
+		top: 115%;
+		left: 50%;
+		transform:  translate(-50%, -50%);
+		border-radius: 10px;
+		border-color: white;
+		color: gray;
+		background-color: white;
+	}
+.next-caribou{
+		font-size:  30px;
+		position: absolute;
+		top: 115%;
+		  left: 50%;
+		transform:  translate(-50%, -50%);
+		border-radius: 10px;
+		border-color: white;
+		color: gray;
+		background-color: white;
+	}
+.next-bobcat{
+		font-size:  30px;
+		position: absolute;
+		top: 115%;
+		left: 50%;
+		transform:  translate(-50%, -50%);
+		border-radius: 10px;
+		border-color: white;
+		color: gray;
+		background-color: white;
+	}
+.next-duck{
+		font-size:  30px;
+		position: absolute;
+		top: 115%;
+		left: 50%;
+		transform:  translate(-50%, -50%);
+		border-radius: 10px;
+		border-color: white;
+		color: teal;
+		background-color: white;
+	}
+.correct{
+		margin: 0;
+ 		position: absolute;
+  	    top: 53%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+	}
+.answer{
+		margin: 0;
+ 		position: absolute;
+  	    top: 64%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		height: 23px;
+		border-radius: 7px;
+	}
+.body-fox{
+		background:  linear-gradient(sandybrown,white);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+.body-polarbear{
+		background:  linear-gradient(lightgray,floralwhite);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+.body-bobcat{
+		background:  linear-gradient(tan,lightgray);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+.body-caribou{
+		background:  linear-gradient(linen,dimgray);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+.body-duck{
+		background:  linear-gradient(teal,peru);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+.croppedImage{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width:  65%;
+		border-radius: 10px;
+	}
+.revealImage{
+		margin: auto;
+ 		position: absolute;
+  		top: 130%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-family: Zen+Loop;
+  		font-size: 13px;
+	}
+.hint-polarbear.hint-fox.hint-bobcat.hint-caribou.hint-duck{
+		font-size:  15px;
+		transform:  translate(20%, 1900%);
+	}
+.hint{
+		margin: 0;
+ 		position: absolute;
+  		top: 80%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-family: Zen+Loop;
+  		font-size: 16px;
+	}
+.info{
+		margin: auto;
+ 		position: absolute;
+  		top: 160%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-family: Zen+Loop;
+  		font-size: 17px;
+	}	
+.infoHeader{
+		position: absolute;
+  		top: 140%;
+  		left: 20%;
+  		transform: translate(-50%, -50%);
+  		font-family: Zen+Loop;
+  		font-size: 24px;
+  		font-weight: bold;
+	}
+.fillerSpace{
+ 		position: absolute;
+  		top: 180%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+	}
