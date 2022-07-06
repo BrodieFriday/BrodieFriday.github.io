@@ -3883,7 +3883,7 @@ input, select, textarea {
 
 /* Intro */
 
-	#intro {
+	.intro {
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
 		background-position: top right;
@@ -3891,13 +3891,13 @@ input, select, textarea {
 		background-size: 100% 100%;
 	}
 
-		#intro p {
+		.intro p {
 			font-size: 1.25em;
 		}
 
 			@media screen and (max-width: 980px) {
 
-				#intro p br {
+				.intro p br {
 					display: none;
 				}
 
@@ -3905,7 +3905,7 @@ input, select, textarea {
 
 			@media screen and (max-width: 736px) {
 
-				#intro p {
+				.intro p {
 					font-size: 1em;
 				}
 
@@ -3913,7 +3913,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
-			#intro {
+			.intro {
 				background-attachment: scroll;
 			}
 
